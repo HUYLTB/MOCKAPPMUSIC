@@ -1,0 +1,18 @@
+.pragma library
+//cac hinh anh dung trong bai
+var imgbackground = "qrc:/img/background.png"
+var imgrouting = "qrc:/img/icons8-obito-uchiha-240.png"
+var imgmute = "qrc:/img/mute.png"
+var imgvolume = "qrc:/img/volumemax.png"
+var imgnext = "qrc:/img/nextsong.png"
+var imgplay = "qrc:/img/pla.png"
+var imgprevious = "qrc:/img/priview.png"
+var imgmix = "qrc:/img/xaotron.png"
+var imgreplay = "qrc:/img/vonglap.png"
+var imgpause = "qrc:/img/pause.png"
+var imgcopyright = "qrc:/img/icons8-copyright-64.png"
+var imgvn = "qrc:/img/icons8-vietnam-48.png"
+var imgen = "qrc:/img/icons8-great-britain-48.png"
+var imgheart = "qrc:/img/icons8-heart-64.png"
+var imgheart2 = "qrc:/img/icons8-heart-50.png"
+var imgsort = "qrc:/img/icons8-alphabet-40.png"
